@@ -5,7 +5,7 @@
 
 
  #### <p>
-Professor with more than 8 years of experience teaching the "language of Cervantes" to hundreds of students from all over the world. A Communications Generalist, bringing forth knowledge from a variety of communication sectors. Knowledgeable and experienced in various political and economical philosophies and passionate about culture and language. Bringing forth a motivated attitude and a variety of powerful skills. Committed to utilizing my skills to further the mission of a company. Adept at making key decisions and working with other professionals to achieve goals and solve problems. </p>
+Professor with more than 8 years of experience teaching the "language of Cervantes" to hundreds of students from all over the world. A Communications Generalist, bringing forth knowledge from a variety of communication sectors. Knowledgeable and experienced in various political and economical philosophies and passionate about culture, language and informatics. Bringing forth a motivated attitude and a variety of powerful skills. Committed to utilizing my skills to further the mission of a company. Adept at making key decisions and working with other professionals to achieve goals and solve problems. </p>
 
 > ### Education
 
