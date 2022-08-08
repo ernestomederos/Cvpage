@@ -23,15 +23,11 @@ _<p>July 2022</p>_
 
 > ### Professional skills
 
-- <input type="checkbox"> Fast Learner
-- <input type="checkbox"> Effective Time Management
-- <input type="checkbox"> Ability to Work Under
-Pressure
-- <input type="checkbox"> Communication
-- <input type="checkbox"> Adobe Programs
-- <input type="checkbox"> Office Programs
-- <input type="checkbox"> Visual Code
-- <input type="checkbox"> Terminal 
+([X]) Communication
+([X]) Adobe Programs
+([X]) Office Programs
+([X]) Visual Code
+([X]) Terminal 
 
 | Languages | Level |
 |-----------|-------|
