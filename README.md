@@ -26,6 +26,7 @@ _<p>July 2022</p>_
 - [x] Communication
 - [x] Adobe Programs
 - [x] Office Programs
+- [x] Git/Github 
 - [x] Visual Code
 - [x] Terminal 
 
